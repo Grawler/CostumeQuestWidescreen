@@ -1,1 +1,3 @@
 When playing Costume Quest on Steam in ultrawide, the UI is cut off at the top and bottom, plus the FPS is capped to 30fps. With this modification, it properly renders the UI and uncaps the framerate.
+
+Made using HxD.
